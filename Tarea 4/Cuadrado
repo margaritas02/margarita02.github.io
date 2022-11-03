@@ -32,3 +32,4 @@ public class Cuadrado {
         fc.proceso();
     }
 }
+
